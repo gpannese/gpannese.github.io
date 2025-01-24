@@ -15,8 +15,8 @@ I enjoy:
 - Going to the park with my dog!
 
 When im not studying, I love:
--going to meuseums.
--watching tv.
+- going to meuseums.
+- watching tv.
 
 ##Website I recommend
 1. [Youtube](https://youtube.com)
