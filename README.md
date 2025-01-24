@@ -15,10 +15,10 @@ I enjoy:
 - Going to the park with my dog!
 
 When im not studying, I love:
-- going to meuseums around town.
-- either catching up on a tv series or being with my friends.
+- Going to museums around town.
+- Either catching up on a tv series or being with my friends.
 
-##Website I recommend
+## Websites I recommend
 1. [Youtube](https://youtube.com)
    Is the best platform that delivers primarily content in the form of videos.
 
