@@ -14,3 +14,10 @@ flowchart TD
     FeedbackHigh --> Input
     Compare -- Correct --> Correct[Show Correct!]
     Correct --> End([End])
+
+## Descirption of the Process
+
+1. *start**: the program being and gets ready to run.
+**Computer picks a number*: Computer generates a random number within a specific range.
+*Player guesses a number*: The player chooses a number.
+*Check if the guess is valid*: The program checks if the guess is within the randge and is a number.
